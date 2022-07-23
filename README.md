@@ -31,7 +31,7 @@ Introducing Myself ...
     <a href=https://t.me/idSJD>
             <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
-    <a href=https://www.instagram.com/idSJD>
+    <a href=https://www.instagram.com/id_SJD>
             <img src="https://img.shields.io/badge/Instagram-aqua?style=flat&logo=instagram" align="center" alt="Instagram" />
     </a>
     <a href=https://youtube.com/channel/UCg3lQ2vhJA05rj9YT3fdvCg>
