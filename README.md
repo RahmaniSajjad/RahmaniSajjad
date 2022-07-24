@@ -26,17 +26,20 @@ Introducing Myself ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
+    <a href=https://youtube.com/channel/UCg3lQ2vhJA05rj9YT3fdvCg>
+    <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube" align="center" alt="Youtube" />
+    </a>
     <a href=mailto:rahmani.sajjad.dev@gmail.com>
-            <img src="https://img.shields.io/badge/Gmail-aqua?style=flat&logo=gmail" align="center" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail" align="center" alt="Gmail" />
     </a>
     <a href=https://t.me/idSJD>
-            <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram" align="center" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-purple?style=flat&logo=telegram" align="center" alt="Telegram" />
     </a>
     <a href=https://www.instagram.com/id_SJD>
-            <img src="https://img.shields.io/badge/Instagram-aqua?style=flat&logo=instagram" align="center" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-cyan?style=flat&logo=instagram" align="center" alt="Instagram" />
     </a>
-    <a href=https://youtube.com/channel/UCg3lQ2vhJA05rj9YT3fdvCg>
-            <img src="https://img.shields.io/badge/Youtube-blue?style=flat&logo=youtube" align="center" alt="Youtube" />
+    <a href=https://twitter.com/id_Sajjad>
+    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter" align="center" alt="Twitter" />
     </a>
 </p>
 </p>
