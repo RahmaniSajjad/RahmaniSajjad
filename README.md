@@ -136,8 +136,9 @@ Introducing Myself ...
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaniSajjad&show_icons=true&locale=en&layout=compact" alt="RahmaniSajjad"/>
 </p>
+<br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RahmaniSajjad&row=2&column=3" alt="RahmaniSajjad"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RahmaniSajjad" alt="RahmaniSajjad"/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RahmaniSajjad&show_icons=true&locale=en" alt="RahmaniSajjad"/>
