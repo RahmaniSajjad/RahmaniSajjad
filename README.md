@@ -53,9 +53,6 @@ Introducing Myself ...
      <a href="https://isocpp.org" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
      </a>
-     <a href="https://www.python.org" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-     </a> 
      <a href="https://www.java.com" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
      </a>
@@ -65,6 +62,9 @@ Introducing Myself ...
      <a href="https://www.mathworks.com" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
      </a>
+     <a href="https://www.python.org" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+     </a> 
      <a href="https://pandas.pydata.org" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
      </a>
