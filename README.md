@@ -26,7 +26,7 @@ Introducing Myself ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-    <a href=https://youtube.com/channel/UCg3lQ2vhJA05rj9YT3fdvCg>
+    <a href=https://youtube.com/@idSJD>
     <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube" align="center" alt="Youtube" />
     </a>
     <a href=mailto:rahmani.sajjad.dev@gmail.com>
@@ -99,6 +99,7 @@ Introducing Myself ...
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaniSajjad&show_icons=true&locale=en&layout=compact" alt="RahmaniSajjad"/>
 </p>
 <br>
+<!---
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RahmaniSajjad" alt="RahmaniSajjad"/>
 </p>
@@ -108,6 +109,7 @@ Introducing Myself ...
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaniSajjad&" alt="RahmaniSajjad"/>
 </p>
+-->
 
 ---
 
