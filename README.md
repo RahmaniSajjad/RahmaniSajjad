@@ -22,30 +22,6 @@ Introducing Myself ...
 
 <br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left">
-    <a href=https://youtube.com/@idSJD>
-    <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube" align="center" alt="Youtube" />
-    </a>
-    <a href=mailto:rahmani.sajjad.dev@gmail.com>
-    <img src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail" align="center" alt="Gmail" />
-    </a>
-    <a href=https://t.me/idSJD>
-    <img src="https://img.shields.io/badge/Telegram-purple?style=flat&logo=telegram" align="center" alt="Telegram" />
-    </a>
-    <a href=https://www.instagram.com/id_SJD>
-    <img src="https://img.shields.io/badge/Instagram-cyan?style=flat&logo=instagram" align="center" alt="Instagram" />
-    </a>
-    <a href=https://twitter.com/id_Sajjad>
-    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter" align="center" alt="Twitter" />
-    </a>
-</p>
-</p>
-
----
-
 <p align="center">
      <a href="https://www.cprogramming.com" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -94,22 +70,30 @@ Introducing Myself ...
      </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaniSajjad&theme=tokyonight" alt="Top Langs">
+</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaniSajjad&show_icons=true&locale=en&layout=compact" alt="RahmaniSajjad"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<p align="left">
+    <a href=https://youtube.com/@idSJD>
+    <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube" align="center" alt="Youtube" />
+    </a>
+    <a href=mailto:rahmani.sajjad.dev@gmail.com>
+    <img src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail" align="center" alt="Gmail" />
+    </a>
+    <a href=https://t.me/idSJD>
+    <img src="https://img.shields.io/badge/Telegram-purple?style=flat&logo=telegram" align="center" alt="Telegram" />
+    </a>
+    <a href=https://www.instagram.com/id_SJD>
+    <img src="https://img.shields.io/badge/Instagram-cyan?style=flat&logo=instagram" align="center" alt="Instagram" />
+    </a>
+    <a href=https://twitter.com/id_Sajjad>
+    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter" align="center" alt="Twitter" />
+    </a>
 </p>
-<br>
-<!---
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RahmaniSajjad" alt="RahmaniSajjad"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahmaniSajjad&show_icons=true&locale=en" alt="RahmaniSajjad"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaniSajjad&" alt="RahmaniSajjad"/>
-</p>
--->
 
 ---
 
