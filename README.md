@@ -14,11 +14,11 @@ Introducing Myself ...
 </p>
 
 
-- 🔭 *I’m currently working on **everything** related to computers.*
+- 🔭 *I’m currently working on **Artificial intelligence**.*
 
 - ❤️ *Make your heart class Singleton :)*
 
-- 📫 *You can contact me or watch my free courses on:* https://t.me/idSJD
+- 📫 *You can contact me or watch my free courses on:* t.me/idSJD
 
 <br>
 
